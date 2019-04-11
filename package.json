@@ -1,0 +1,25 @@
+{
+  "name": "mdx-deck-theme-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "now-build": "gatsby build"
+  },
+  "keywords": [],
+  "author": "Brent Jackson <jxnblk@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@emotion/core": "^10.0.10",
+    "@jxnblk/gatsby-theme-mdx-blog": "^0.0.14-3",
+    "@mdx-deck/gatsby-theme": "^2.0.10-alpha.2",
+    "@mdx-deck/layouts": "^2.0.10-alpha.2",
+    "@mdx-deck/themes": "^2.0.10-alpha.2",
+    "gatsby": "^2.3.17",
+    "gatsby-plugin-catch-links": "^2.0.13",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}

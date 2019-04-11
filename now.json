@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "name": "mdx-deck-theme",
+  "alias": "mdx-deck-theme.now.sh",
+  "public": true,
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@now/static-build",
+      "config": {
+        "distDir": "public"
+      }
+    }
+  ]
+}
