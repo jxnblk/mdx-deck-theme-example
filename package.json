@@ -13,7 +13,7 @@
   "license": "MIT",
   "dependencies": {
     "@emotion/core": "^10.0.10",
-    "@jxnblk/gatsby-theme-mdx-blog": "^0.0.14-3",
+    "@jxnblk/gatsby-theme-mdx-blog": "^0.0.14",
     "@mdx-deck/gatsby-theme": "^2.0.10-alpha.2",
     "@mdx-deck/layouts": "^2.0.10-alpha.2",
     "@mdx-deck/themes": "^2.0.10-alpha.2",

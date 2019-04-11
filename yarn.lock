@@ -890,10 +890,10 @@
     signedsource "^1.0.0"
     yargs "^9.0.0"
 
-"@jxnblk/gatsby-theme-mdx-blog@^0.0.14-3":
-  version "0.0.14-3"
-  resolved "https://registry.yarnpkg.com/@jxnblk/gatsby-theme-mdx-blog/-/gatsby-theme-mdx-blog-0.0.14-3.tgz#e06c9000bb63b840f72315f2a0e3533cb148987a"
-  integrity sha512-fTkhUKHVNBTpP4hvEWaHHou4yKCzTQpvPTnQ7uciptMzWYaxiOvc0v4xZ4l8ddI2+48mgR2AT8Caq6eZtmyiIw==
+"@jxnblk/gatsby-theme-mdx-blog@^0.0.14":
+  version "0.0.14"
+  resolved "https://registry.yarnpkg.com/@jxnblk/gatsby-theme-mdx-blog/-/gatsby-theme-mdx-blog-0.0.14.tgz#e5894c404e3499a5580a71da9dd2ac7ec790857b"
+  integrity sha512-TTcfiH/WUGl95YNdXrU5Z7cpuSWLekXPAVPZAK6UPo3zSXQF67LzX4pzfEKxpfEYEkyzaCOoiI08ppXQq496rw==
   dependencies:
     "@emotion/core" "^10.0.10"
     "@emotion/styled" "^10.0.10"
