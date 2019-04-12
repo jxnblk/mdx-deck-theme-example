@@ -1,0 +1,4 @@
+
+```sh
+yarn && yarn start
+```
