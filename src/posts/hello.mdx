@@ -4,6 +4,9 @@ date: 2019-04-11
 draft: false
 ---
 
+import { Embed } from '@mdx-deck/components'
+import GettingStarted from '../decks/getting-started'
+
 This site was generated with Gatsby using
 `@jxnblk/gatsby-theme-mdx-blog`
 & `@mdx-deck/gatsby-theme`.
@@ -14,3 +17,12 @@ And the [Blog](/blog) index page is this blog.
 The homepage uses the layout components from the blog theme to create a custom layout, but otherwise styles are isolated from each theme.
 
 So yeah, Gatsby themes are pretty rad.
+
+## Write-ups
+
+Say you've finished your presentation, but want to share it with the world as a write-up on your blog.
+Using the MDX Deck theme in your Gatsby site means the source MDX file is already in your project,
+and you can use the MDX Deck `<Embed />` component to place individual slides in your blog's MDX file, like the one below.
+
+<Embed src={GettingStarted} slide={5} />
+
